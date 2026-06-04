@@ -87,10 +87,11 @@ Discounts negatively affect profit in many cases
 Consumer segment drives majority of sales
 #### 📊 Dashboard Preview
 👉 
-Example:
+<p align="center">
+  <img src="Retail_Sales_dashboard.png" width="700"/>
+</p>
 
-/images/dashboard.png
-📁 Repository Structure
+#### 📁 Repository Structure
 
 Retail-Sales-Dashboard/
 │
@@ -100,21 +101,25 @@ Retail-Sales-Dashboard/
 ├── images/
 │   └── dashboard.png
 └── README.md
-🚀 How to Run This Project
+
+#### 🚀 How to Run This Project
 Clone the repository
 Open Jupyter Notebook and run EDA steps
 Open .pbix file in Power BI Desktop
 Explore dashboard using slicers and filters
-📌 Conclusion
+
+## 📌 Conclusion
 This project demonstrates how raw retail data can be transformed into meaningful business insights using data analysis and visualization techniques.
 It helps businesses understand:
 What sells the most
 Where profit is generated
 How discounts impact business
 Which regions need improvement
-👩‍💻 Author
+
+## 👩‍💻 Author
 Gaurvi Miglani
 Aspiring Data Analyst
 Skills: Python | SQL | Power BI | Data Visualization | EDA
-🔖 Tags
-Data Analytics Power BI Python EDA Business Intelligence Dashboard Data Visualization
+
+## 🔖 Tags
+`Data Analytics` `Power BI` `Python` `EDA` `Business Intelligence` `Dashboard` `Data Visualization` `Pandas` `Seaborn`
