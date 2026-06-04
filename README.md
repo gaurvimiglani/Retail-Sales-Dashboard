@@ -93,26 +93,18 @@ Consumer segment drives majority of sales
 
 
 ## 🚀 How to Run This Project
-
--Clone the repository
-
--Open Jupyter Notebook and run EDA steps
-
--Open .pbix file in Power BI Desktop
-
--Explore dashboard using slicers and filters
+- Clone the repository
+- Open Jupyter Notebook and run EDA steps
+- Open .pbix file in Power BI Desktop
+- Explore dashboard using slicers and filters
 
 ## 📌 Conclusion
 This project demonstrates how raw retail data can be transformed into meaningful business insights using data analysis and visualization techniques.
 It helps businesses understand:
-
--What sells the most
-
--Where profit is generated
-
--How discounts impact business
-
--Which regions need improvement
+- What sells the most
+- Where profit is generated
+- How discounts impact business
+- Which regions need improvement
 
 ## 👩‍💻 Author
 Gaurvi Miglani
